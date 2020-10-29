@@ -1,6 +1,7 @@
 # demo-container
 install docker desktop
 for mac/windows10 (except home edition) --> https://www.docker.com/products/docker-desktop
+
 for windows10 home edition --> https://docs.docker.com/docker-for-windows/install-windows-home/
 
 # basic command
