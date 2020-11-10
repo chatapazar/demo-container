@@ -91,6 +91,8 @@ mvn clean package -DskipTests
 
 docker build ./ -t myapp
 
+clear docker myapp & postgres with docker desktop
+
 docker-compose up
 
 
