@@ -73,7 +73,7 @@ getall : http://localhost:8080/api/v1/employees
 GET : 
 
 
-mvn clean package
+mvn clean package -DskipTests
 
 Java -jar demo*.jar
 
