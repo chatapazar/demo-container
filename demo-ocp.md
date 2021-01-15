@@ -7,7 +7,6 @@ part 1 - demo with terminal
 
 part 2 - demo with web console
 - new project
-- deploy with source code
 - deploy with image
 - show pod, log, terminal
 - show service
