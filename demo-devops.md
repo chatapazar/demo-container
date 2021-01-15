@@ -28,4 +28,4 @@ oc apply -f manifests/backend-build-pipeline.yaml -n ci-cd
 
 ```
 
-start in openshift dev console, show jenkins, show blue ocean
+start build backend-build-pipeline in openshift dev console, show jenkins, show blue ocean
