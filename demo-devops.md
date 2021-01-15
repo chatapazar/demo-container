@@ -22,6 +22,6 @@ cd bin
 ./setup_ci_cd_tools.sh
 
 #Create Jenkins slave with Maven 3.6 and Skopeo
-./setup_maven36_slave.sh
+./setup_maven36_slave_no_podman.sh
 
 ```
