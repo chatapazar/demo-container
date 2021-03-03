@@ -27,6 +27,12 @@ psql -U docker
 
 \l
 
+\dt
+
+\z
+
+select * from employee;
+
 \q
 
 exit
